@@ -1,6 +1,10 @@
-# Genetic-Algorithm
+Genetic-Algorithm
 ==============
-## 내용 
+2022 SSHS R&E 
+(김선웅, 이지후, 박세진, 정현우)
+
+내용
+--------
 Genetic-Algorithm을 이용해 max-sum matching을 해결했습니다.
 #### 1. 해의 표현
 i번째 A가 j번째 B와 matching된다 하면, A[i] = j로 표현합니다.
