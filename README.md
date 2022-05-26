@@ -1,7 +1,11 @@
 Genetic-Algorithm
 ==============
 2022 SSHS R&E 
-(김선웅, 이지후, 박세진, 정현우)
+
+* 김선웅(seonu)
+* 이지후(numbering)
+* 박세진(exabyte)
+* 정현우(andy)
 
 내용
 --------
